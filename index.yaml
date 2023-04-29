@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  telebot:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-04-29T20:04:33.114914114+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 15831eb24d616ebedfb3eba6e4bd196b929cae6a9eb596c6b07a962c68eecf0c
+    name: telebot
+    type: application
+    urls:
+    - telebot-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-04-29T20:04:33.114414482+03:00"
